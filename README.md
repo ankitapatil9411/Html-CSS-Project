@@ -12,7 +12,7 @@ Static clone of Amazon homepage
 
 Built with pure HTML and CSS (no JavaScript)
 
-Responsive design (if you added responsiveness)
+Responsive design 
 
 Practice project for learning front-end basics
 
